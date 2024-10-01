@@ -13,16 +13,17 @@
 8. `Kick All Members`
 
 
-# Show Case: 
+# ShowCase: 
 
-### Soon:
-
-
+### Soon
 
 
 
 
-
+# Set-up:
+1. Go to your [Discord Developers Applications](https://discord.com/developers/applications) and create a new bot
+2. After creating a Bot, Go to the tokens.txt file and put the bot token there [Without Any Spaces]
+3. After that Simply run the .exe file, Also you can contact me if you want the python version of the tool
 
 
 
