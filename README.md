@@ -1,8 +1,16 @@
-# Discord-Nuker
+# ki1erz: Server Nuker
 
 
 
-
+## Features:
+1. `Delete All Channels`
+2. `Mass Create Channels`
+3. `Mass Create Roles`
+4. `Mass Create Channels & Ping`
+5. `Delete All Roles`
+6. `Delete All Emojis`
+7. `Ban All Members`
+8. `Kick All Members`
 
 
 
